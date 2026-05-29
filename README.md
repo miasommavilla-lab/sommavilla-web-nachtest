@@ -21,10 +21,10 @@
 
 <script>
 const essen = [
-  "Croissant – Frankreich",
-  "Baguette – Frankreich",
-  "Crêpes – Frankreich",
-  "Macarons – Frankreich"
+  "Croissant",
+  "Baguette",
+  "Crêpes",
+  "Frankreich"
 ];
 
 const liste = document.getElementById("liste-essen");
