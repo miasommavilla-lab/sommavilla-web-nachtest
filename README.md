@@ -36,3 +36,21 @@ essen.forEach(h => {
 });
 </script>
 <h2>Visueller Eindruck</h2>
+<figure>
+    <img src="img/wahrzeichen.jpg"
+        alt=Nordturm des Stephansdoms in Wien"
+    title="Vorgegebens Bild"
+    width="450">
+    <figurecaption>Foto:
+        <a href="https://commons.wikimedia.org/wiki/User:Uoaei1" target="_blank">
+            Uoaei1
+        </a>
+        <a href="" target=_blank>
+            Stephansdom Nordturm 01
+        </a>
+        Lizenz:
+        <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" target="_blank">
+            CC BY-SA 3.0
+        </a>
+    </figurecaption>
+</figure>
